@@ -11,7 +11,6 @@ def my_each (array)# put argument(s) here
 else
    "This block should not run!"
 end
-  array
 end
 
 # def hello(['arel', 'jon', 'logan', 'spencer']) do |name|

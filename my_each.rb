@@ -7,6 +7,6 @@ def my_each (array)# put argument(s) here
   end
 end
 
-hello(array) do |name|
+hello(['arel', 'jon', 'logan', 'spencer']) do |name|
     puts "Hi, #{name}"
 end
